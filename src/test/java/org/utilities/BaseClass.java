@@ -198,6 +198,7 @@ import org.openqa.selenium.interactions.Actions;
 	 }
 	 public static void toDropDownSelectVisibleText(String ss) {
 	 	s.selectByVisibleText(ss);
+	 	System.out.println("hi yogesh");
 
 	 }
 	 //waits
@@ -212,7 +213,15 @@ import org.openqa.selenium.interactions.Actions;
 	// }
 
 
+	 
+	 
 
-	 }
+}
+
+
+
+
+
+	 
 
 
